@@ -1,36 +1,41 @@
-# Governance
+---
+description: >-
+  Describes the proposals and voting based governance system of the Yapeswap DAO
+  and the dividend rewards system for $veYAPE holders
+---
 
-The Yapeswap DAO is governed by the voices and opinions of $veYAPE holders, referred to colloquially as Yapes. In the Yapeswap DAO forum, Yapes can discuss new governance proposals, vote, and receive fair rewards for their contributions.
+# Yapeswap DAO
 
-If you are a $veYAPE holder, you are a Yape, and you can exercise your right by following the guide below.
+## Proposals
 
-## Discuss with Community
+The Yapeswap Forum, in conjunction with Yapeswap community social channels on various platforms, is the foundation of the community and DAO.
 
-Join the Yapeswap [Discord](https://discord.gg/xpMkdAKxff) and [Forum](https://forum.yape.exchange/) now and share your voices.
+The Forum is a place where DAO members can submit proposals aimed at improving Yapeswap in some way, and the community can show their support, discuss adjustments to a proposal's specifics, or speak up in opposition of a proposal. Naturally, discussion regarding active proposals will take place on the other platforms used by the DAO.
 
-## Vote to proposals
+Typical proposal types include new projects funded from the Yapeswap DAO treasury and changes to the function of the protocol.
 
-* All proposals must be discussed in the [Forum](https://forum.yape.exchange/) and get at least **5 likes** before voting
-* The minimum threshold to submit governance proposals is **100 $veYAPE**.
-* Quorum for governance proposals is set to **100k $veYAPE**.
-* After voting ends, all successful proposals have an enforced 1 day grace period \(by the Timelock contract\).
+In order to post a proposal in the Forum, DAO members must hold at least 100 $veYAPE, however, anyone in possession of at least 1 $veYAPE is a Yapeswap DAO member and is able to participate in the Forum discussion and voting process. DAO members are colloquially referred to as Yapes within the Yapeswap community.
 
-### Voting Rule
+A forum proposal is eligible to be moved to a Vote once it has received 5 likes from the community, but some proposals that receive support may remain in the forum if the community is still discussing the proposal's specifics.
 
-#### Off-chain \(Snapshot\)
+## Voting
 
-* Used when gas fees are high.
-* After a proposal is announced, there is a 48 hour pre-election period before voting starts.
-* $veYAPE holders can then cast votes within a 48 hour voting window.
+The Yapeswap DAO has processes in place for both off-chain and on-chain voting. On-chain voting is the preferred method of conducting votes, and off-chain voting is only used to mitigate high gas costs.
 
-#### On-chain
+### Off-Chain Voting
 
-* Used when gas fees are low.
-* After a proposal is announced, there is a 7 day pre-election period before voting starts.
-* $veYAPE holders can then cast votes within a 7 day voting window.
-* $veYAPE holders can use on-chain voting to decide not to use Snapshot.
+* Conducted using Snapshot
+* Forum proposal associated with vote must be active for a 48 hour period prior to voting period commencement.
+* Voting period will last 48 hours.
+
+### On-Chain Voting
+
+* Forum proposal associated with the vote must be active for a 7 day period prior to voting period commencement. 
+* Voting period will last 7 days.
 
 ## Receive Dividends
 
 $veYAPE holders can claim their dividends streamed from the Yapeswap protocol. All protocol fees \(0.15% of swap fee\) and yields from Yearn vaults will be used to buy back $YAPE. All $YAPE bought back will be distributed to $veYAPE holders. 
+
+## 
 

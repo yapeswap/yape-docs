@@ -1,6 +1,10 @@
-# Tokens
+---
+description: >-
+  $YAPE, $veYAPE, and $cYAPE are the three core tokens of the Yapeswap
+  ecosystem. Their functions are described in-depth below.
+---
 
-The three core tokens of Yapeswap are $YAPE, $veYAPE, and $cYAPE
+# Tokens
 
 ## $YAPE
 
@@ -30,6 +34,8 @@ Because those who lock $YAPE for longer periods are true believers of Yapeswap's
 $cYAPE is a stablecoin pegged to $DAI/$USDC, whose main intended function is to pay workers for their contributions to the Yapeswap DAO. When workers are paid in $cYAPE, they can swap it out for $DAI, effectively cashing their paycheck, or they can burn it to mine $YAPE rewards. The burnt $cYAPE accrues $YAPE rewards and does so at an APY higher than the rest of the $YAPE mining pools. To acquire $cYAPE without being paid for a contribution, one can buy it at a premium rate of $2 DAI to 1 $cYAPE. Some users elect to buy $cYAPE in order to take advantage of the high APY of the burn mining pool.
 
 A given value of $cYAPE begins earning $YAPE tokens the moment that it is burned. The burned value will continue to earn rewards until the $YAPE rewards are withdrawn, at which point the burned $cYAPE is disposed of and the rewards stop accruing. With their wallets connected to the protocol, users' burnt $cYAPE balances will be displayed for their viewing on the DAO page along with the balance of the $YAPE it has mined since being burnt. When the $YAPE is withdrawn the $cYAPE balance will no longer be viewable for users as it cannot be burnt again.
+
+Please refer to the 'Burn $cYAPE or Swap for $DAI' tab under 'How to Earn $YAPE' for a full walk through on how to use your $cYAPE on the Yapeswap DAO page. 
 
 
 

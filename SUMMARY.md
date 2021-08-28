@@ -1,13 +1,13 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Using Yapeswap](using-yapeswap.md)
 * [Vision](our-vision.md)
 
-## CORE CONCEPTS <a id="yapeswap"></a>
+## YAPESWAP
 
-* [Yapeswap](yapeswap/untitled.md)
-* [Governance](yapeswap/governance.md)
-* [Security](yapeswap/security.md)
+* [Yapeswap AMM](yapeswap/untitled.md)
+* [Yapeswap DAO](yapeswap/governance.md)
 
 ## TOKENOMICS
 
@@ -15,23 +15,27 @@
 * [Token Distribution](tokenomics/token-distribution.md)
 * [YAPE Emission Schedule](tokenomics/untitled.md)
 
+## GUIDES <a id="tutorials"></a>
+
+* [How to Earn $YAPE](tutorials/how-to-earn-yape/README.md)
+  * [Supply Liquidity to Yapeswap Pools](tutorials/how-to-earn-yape/untitled-1.md)
+  * [Burn $cYAPE or Swap for $DAI](tutorials/how-to-earn-yape/burn-usdcyape-or-swap-for-usddai.md)
+  * [Lock $YAPE for $veYAPE](tutorials/how-to-earn-yape/lock-usdyape-for-usdveyape.md)
+* [How to Swap](tutorials/untitled.md)
+
 ## FAQ
 
 * [Yapeswap FAQ](faq/yapeswap-faq.md)
+* [Glossary](faq/glossary.md)
 
-## GUIDES <a id="tutorials"></a>
+## RESOURCES <a id="developers"></a>
 
-* [How to Swap](tutorials/untitled.md)
-* [How to Supply Liquidity](tutorials/untitled-1.md)
-* [How to Earn YAPE](tutorials/how-to-earn-yape.md)
-
-## DEVELOPERS
-
+* [Security](developers/security.md)
 * [Smart Contracts](developers/untitled.md)
 
 ## LINKS
 
-* [Yapeswap](https://yape.exchange/)
+* [Yapeswap AMM](https://yape.exchange/)
 * [Yapeswap DAO](https://dao.yape.exchange/)
 * [Yapeswap Analytics](https://info.yape.exchange/home)
 * [Github](https://github.com/yapeswap)

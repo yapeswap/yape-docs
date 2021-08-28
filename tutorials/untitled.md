@@ -1,24 +1,22 @@
 # How to Swap
 
-1.Go to [https://yape.exchange](https://yape.exchange/) and click ENTER APP or go straight to [https://app.yape.exchange/\#/swap](https://app.yape.exchange/#/swap).
+Go to [https://yape.exchange](https://yape.exchange/) and click ENTER APP or go straight to [https://app.yape.exchange/\#/swap](https://app.yape.exchange/#/swap).
 
-![](../.gitbook/assets/0%20%281%29.jpeg)
+Select the tokens you wish to swap. Click the down arrow between the tokens to toggle the direction of the trade.
 
-2. Select the tokens you wish to swap. Click the down arrow between the tokens to toggle the direction of the trade.
+![](../.gitbook/assets/1%20%281%29.jpeg)
 
-![](../.gitbook/assets/1.jpeg)
-
-3. Click the gear icon in the upper corner of the swap window to adjust the slippage rate, set a transaction deadine, turn on expert mode, or enable multihops.
+Click the gear icon in the upper corner of the swap window to adjust the slippage rate, set a transaction deadine, turn on expert mode, or enable multihops.
 
 ![](../.gitbook/assets/2.jpeg)
 
-4. Select the amount you wish to swap and click SWAP.
+Select the amount you wish to swap and click SWAP.
 
 ![](../.gitbook/assets/3.jpeg)
 
-5. Verify that all of the transaction details are correct and click confirm swap.
+Verify that all of the transaction details are correct and click confirm swap.
 
 ![](../.gitbook/assets/4%20%281%29.jpeg)
 
-6. Verify that the transaction has gone through using etherscan.
+Verify that the transaction has gone through using etherscan.
 

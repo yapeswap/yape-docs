@@ -1,18 +1,16 @@
+---
+description: >-
+  Please refer to the Glossary tab for any terms or acronyms with which you are
+  unfamiliar
+---
+
 # Introduction
 
-Yapeswap is an Automated Market Maker \(AMM\) on the Ethereum blockchain that enables liquidity providers to earn additional yield by investing idle token reserves from liquidity pools into yield farming and aggregator services hosted by Yearn Finance. The protocol is maintained by independent developers and governed by veYAPE holders.
+The Yapeswap ecosystem is best described as a DAO, whose flagship product is it's next generation AMM. The Yapeswap AMM deposits idle liquidity from it's liquidity pools into Yearn Finance Vaults \(see glossary\), so that liquidity provider's capital is always generating yield - even if it is not being used to facilitate trades. The AMM is governed, grown and maintained by the Yapeswap DAO. The DAO framework features a 3 token system where each token has a unique function that plays an important role in growing and maintaining the Yapeswap ecosystem. The 3 tokens are_\*_ 
 
-### Automated Market Maker
+* **$YAPE** - Yapeswap's native token; liquidity providers earn rewards in $YAPE
+* **$veYAPE** - Issued to DAO members when $YAPE is locked for a set time period and represents access to $YAPE dividends and voting rights within the DAO
+* **$cYAPE** - A stable coin pegged to $DAI used to pay those employed by the DAO, which they can either swap for $DAI or 'burn mine' to accrue $YAPE rewards at a high rate in relation to Yapeswap liquidity pools 
 
-An AMM is a decentralized trading pool that enables market participants to buy and sell various currencies. The liquidity providers \(LPs\) that fund these trading pools are incentivized by rewards to fund the pool. The greater the trading volume relative to the size of the pool, the greater rewards the LP's stand to generate.
-
-### Yearn Finance Vaults
-
-Yearn Finance is a suite of products in Decentralized Finance \(DeFi\) that provides lending aggregation, yield generation, and insurance on the Ethereum blockchain. Their Vaults are capital pools that automatically generate yield based on opportunities present in the market. Vaults benefit users by socializing gas costs, automating the yield generation and rebalancing process, and automatically shifting capital as opportunities arise.
-
-
-
-
-
-
+_\*The tokens are described in greater detail in the_ Tokenomics _section_
 

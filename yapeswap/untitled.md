@@ -1,12 +1,16 @@
-# Yapeswap
+---
+description: >-
+  Details the next-generation features of the Yapeswap AMM and provides critical
+  details regarding how the AMM functions, pools supported, and fees
+---
 
-## What is Yapeswap?
+# Yapeswap AMM
+
+## How is Yapeswap different than the existing AMMs?
 
 Yapeswap is a next generation AMM focused on the smart utilization of liquidity. With a typical AMM, liquidity is only utilized and earning rewards when trades are taking place. In most pools, 80-90% of the liquidity goes unused as only 10-20% is being used for swaps at a given time. In the era of capital efficiency, this is a problem for liquidity providers. 
 
-Yapeswap is providing a solution to this problem by allocating the unused liquidity in our pools to Yearn Finance Vaults. Yapeswap will automatically adjust the farming ratio, or the balance of liquidity held for trades and the amount that is stored in the yield earning vaults. This rebalancing is based on the overall size of the pool and the demand for liquidity due to trading activity. This description is slightly simplified, but it explains Yapeswap in a nutshell, the AMM that ensures your crypto is working hard to earn you more crypto.
-
-
+Yapeswap is providing a solution to this problem by allocating the unused liquidity in our pools to Yearn Finance Vaults \(see glossary\). Yapeswap will automatically adjust the farming ratio, or the balance of liquidity held for trades and the amount that is stored in the yield earning vaults. This rebalancing is based on the overall size of the pool and the demand for liquidity due to trading activity. This description is slightly simplified, but it explains Yapeswap in a nutshell, the AMM that ensures your crypto is working hard to earn you more crypto.
 
 ## How it works
 
@@ -29,8 +33,6 @@ How does Yapeswap work in detail? You can simply understand how it works under t
 6. Anyone can run rebalance function in a permissionless way.
 7. When rebalance is called, it takes the net yield and sends it to the fee manager.
 8. Fee manager buys back $YAPE using the revenue & distributes them to the $veYAPE holders.
-
-
 
 ## Pools Supported
 
