@@ -8,15 +8,11 @@ description: >-
 
 Go to yape.exchange to visit the landing page and click on ‘Enter App’
 
-![Graphical user interface, website
-
-Description automatically generated](.gitbook/assets/0.jpeg)
+![](.gitbook/assets/0.jpeg)
 
 Click on ‘Connect to a wallet’
 
-![Graphical user interface, application
-
-Description automatically generated](.gitbook/assets/1.jpeg)
+![](.gitbook/assets/1.jpeg)
 
 Select which wallet provider you will be using to connect to the App.![Graphical user interface, application
 
