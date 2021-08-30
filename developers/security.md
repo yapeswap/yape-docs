@@ -2,7 +2,7 @@
 
 ## Code Diff
 
-{% hint style="warning" %}
+{% hint style="info" %}
 🦍-🧐-💪\(Apes DYOR strong**\)**
 {% endhint %}
 

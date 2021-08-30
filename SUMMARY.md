@@ -21,7 +21,7 @@
 * [How to Earn $YAPE](tutorials/how-to-earn-yape/README.md)
   * [Supply Liquidity to Yapeswap Pools](tutorials/how-to-earn-yape/untitled-1.md)
   * [Burn $cYAPE or Swap for $DAI](tutorials/how-to-earn-yape/burn-usdcyape-or-swap-for-usddai.md)
-  * [Lock $YAPE for $veYAPE](tutorials/how-to-earn-yape/lock-usdyape-for-usdveyape.md)
+  * [Lock $YAPE for $veYAPE and Claim $YAPE Dividends](tutorials/how-to-earn-yape/lock-usdyape-for-usdveyape.md)
 * [How to Swap](tutorials/untitled.md)
 
 ## FAQ
