@@ -8,7 +8,7 @@ description: >-
 
 Go to yape.exchange to visit the landing page and click on ‘Enter App’
 
-![](../.gitbook/assets/0.jpeg)
+![](../.gitbook/assets/landing-page.jpg)
 
 Click on ‘Connect to a wallet’
 

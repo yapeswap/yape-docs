@@ -2,7 +2,7 @@
 
 Go to yape.exchange and click ENTER APP
 
-![](../../.gitbook/assets/0%20%281%29.jpeg)
+![](../../.gitbook/assets/landing-page%20%282%29.jpg)
 
 In the upper left hand corner click 'pool'
 
@@ -10,7 +10,7 @@ In the upper left hand corner click 'pool'
 
 Click 'Add Liquidity' in the corner of the pool window
 
-![](../../.gitbook/assets/2%20%281%29.jpeg)
+![](../../.gitbook/assets/2%20%281%29%20%281%29.jpeg)
 
 Select the tokens pair for which you wish to provide liquidity
 

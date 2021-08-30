@@ -8,7 +8,7 @@ description: >-
 
 Supply liquidity to the $YAPE mining pools by acquiring LP tokens for the desired pair. This is done on the ‘Pool’ tab on the app page.
 
-![](../.gitbook/assets/0%20%285%29.jpeg)
+![](../.gitbook/assets/2%20%281%29.jpeg)
 
 Go to the DAO page, select the pool for which you have LP tokens, and stake them to the pool. When enough $YAPE has accrued, ‘Mine’ the rewards and leave your initial balance behind.
 
