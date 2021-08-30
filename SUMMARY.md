@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Using Yapeswap](using-yapeswap.md)
+* [Getting Started With Yapeswap](using-yapeswap/README.md)
+  * [How to Ape In](using-yapeswap/how-to-ape-in.md)
 * [Vision](our-vision.md)
 
 ## YAPESWAP

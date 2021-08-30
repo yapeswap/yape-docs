@@ -18,3 +18,5 @@ When you are ready to redeem your $YAPE rewards from your burned $cYAPE, click â
 
 The $YAPE youâ€™ve mined will be deposited to your wallet and the burned value will no longer be visible to you as it is no longer eligible to accrue rewards and can only burned one time.
 
+_**Both burning and withdrawing burned $cYAPE rewards are permanent actions**_
+
