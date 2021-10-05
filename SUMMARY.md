@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Getting Started With Yapeswap](using-yapeswap/README.md)
   * [How to Ape In](using-yapeswap/how-to-ape-in.md)
-* [Vision](our-vision.md)
+* [Project Vision](our-vision.md)
 
 ## YAPESWAP
 

@@ -1,4 +1,4 @@
-# Vision
+# Project Vision
 
 **Our vision** is to build the most profitable AMM for liquidity providers.
 
