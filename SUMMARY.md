@@ -12,7 +12,8 @@
 
 ## TOKENOMICS
 
-* [Tokens](tokenomics/tokens.md)
+* [Tokens](tokenomics/tokens/README.md)
+  * [Work](tokenomics/tokens/work.md)
 * [Token Distribution](tokenomics/token-distribution.md)
 * [YAPE Emission Schedule](tokenomics/untitled.md)
 
