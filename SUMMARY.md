@@ -16,8 +16,9 @@
   * [Work](tokenomics/tokens/work.md)
 * [Token Distribution](tokenomics/token-distribution.md)
 * [YAPE Emission Schedule](tokenomics/untitled.md)
+* [$veYAPE Rewards](tokenomics/usdveyape-rewards.md)
 
-## GUIDES <a id="tutorials"></a>
+## GUIDES <a href="tutorials" id="tutorials"></a>
 
 * [How to Earn $YAPE](tutorials/how-to-earn-yape/README.md)
   * [Supply Liquidity to Yapeswap Pools](tutorials/how-to-earn-yape/untitled-1.md)
@@ -30,21 +31,20 @@
 * [Yapeswap FAQ](faq/yapeswap-faq.md)
 * [Glossary](faq/glossary.md)
 
-## RESOURCES <a id="developers"></a>
+## RESOURCES <a href="developers" id="developers"></a>
 
 * [Security](developers/security.md)
 * [Smart Contracts](developers/untitled.md)
 
 ## LINKS
 
-* [Yapeswap AMM](https://yape.exchange/)
-* [Yapeswap DAO](https://dao.yape.exchange/)
+* [Yapeswap AMM](https://yape.exchange)
+* [Yapeswap DAO](https://dao.yape.exchange)
 * [Yapeswap Analytics](https://info.yape.exchange/home)
 * [Github](https://github.com/yapeswap)
 * [Twitter](https://twitter.com/yapeswap)
 * [Discord](https://discord.gg/7pPrCfWYDQ)
 * [Telegram](https://t.me/Yapeswap)
 * [Reddit](https://www.reddit.com/r/yapeswap/)
-* [Governance Forum](https://forum.yape.exchange/)
+* [Governance Forum](https://forum.yape.exchange)
 * [Vote](https://snapshot.org/#/yape.eth)
-
